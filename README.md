@@ -14,3 +14,6 @@ No Permissions to connect:
 
 ![screenshot](https://i.imgur.com/t75o4tm.png)
 ![screenshot](https://i.imgur.com/4M6D3qQ.png)
+
+# Important
+Do not reupload or sell this code! Do not claim this as yours!
