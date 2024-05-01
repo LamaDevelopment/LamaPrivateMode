@@ -7,8 +7,8 @@ When the script is started, only players who are entered in the config can conne
 
 # Preview
 Permissions to connect:
-![screenshot](https://imgur.com/YwnCiqi)
+[![screenshot](https://imgur.com/YwnCiqi)](https://i.imgur.com/YwnCiqi.png)
 
 No Permissions to connect:
-https://imgur.com/t75o4tm
-https://imgur.com/4M6D3qQ
+[https://imgur.com/t75o4tm](https://i.imgur.com/t75o4tm.png)
+[https://imgur.com/4M6D3qQ](https://i.imgur.com/4M6D3qQ.png)
