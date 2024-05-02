@@ -1,6 +1,6 @@
 fx_version 'adamant'
 game 'gta5'
-lua54 'on'
+lua54 'yes'
 
 author 'Lama Development'
 description 'Private mode script'
